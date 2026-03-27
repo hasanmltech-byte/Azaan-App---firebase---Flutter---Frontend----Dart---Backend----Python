@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823313102959",
+    "project_id": "pushnotification-2f67d",
+    "storage_bucket": "pushnotification-2f67d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823313102959:android:36679ed3df3fca4749f59a",
+        "android_client_info": {
+          "package_name": "com.example.azaan_ramzan_alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7tfVdpom61OwUmzfAaqMQsLvTUYIY3kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823313102959:android:38c1e37449fc4f8249f59a",
+        "android_client_info": {
+          "package_name": "com.example.azaan_ramzan_timings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7tfVdpom61OwUmzfAaqMQsLvTUYIY3kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
